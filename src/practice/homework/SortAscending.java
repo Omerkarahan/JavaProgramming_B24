@@ -6,6 +6,7 @@ public class SortAscending{
     public static void main(String[] args) {
         int[] arr = {10, 9, 8, 7};
         System.out.println(Arrays.toString(Ascending(arr)));
+
     }
 
 
